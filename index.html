@@ -1,22 +1,5 @@
 ---
-my_number: 5
-page_title: Sample Page
+layout: default
+title: Home
 ---
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.page_title }}</title>
-  </head>
-  <body>
-    <h1>Hello World {{ page.my_number }}!!</h1>
-    {% if page.show_sidebar %}
-      <div class="sidebar">
-        sidebar content
-      </div>
-    {% endif %}
-
-    {{ "hi hello" | capitalize }}
-  </body>
-</html>
+<h1>{{ "Hello World!" | downcase }}</h1>
