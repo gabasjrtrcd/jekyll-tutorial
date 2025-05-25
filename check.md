@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Markdown?
+title: Check
 ---
 # Is this it?
 
