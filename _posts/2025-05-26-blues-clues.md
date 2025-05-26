@@ -1,5 +1,5 @@
 ---
-title: 2025-05-26-blues-clues.html
+title: Blue's Clues
 description: ""
 date: 2025-05-26T03:59:56.521Z
 preview: ""
