@@ -9,7 +9,7 @@ defaults:
     values:
       layout: "default"
 
-# plugins:
+plugins:
+  - jekyll-sitemap
 #   - jekyll-feed
-#   - jekyll-sitemap
 #   - jekyll-seo-tag
