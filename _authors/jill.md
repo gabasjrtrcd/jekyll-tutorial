@@ -1,4 +1,6 @@
 ---
+layout: default
+
 short_name: jill
 name: Jill Smith
 position: Chief Editor

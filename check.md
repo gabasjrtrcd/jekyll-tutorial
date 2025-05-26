@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Check
 ---
 # Is this it?

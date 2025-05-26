@@ -1,4 +1,6 @@
 ---
+layout: default
+
 short_name: ted
 name: Ted Doe
 position: Writer
