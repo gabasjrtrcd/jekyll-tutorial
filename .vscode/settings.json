@@ -1,12 +1,2 @@
 {
-    "frontMatter.content.pageFolders": [
-        {
-            "title": "posts",
-            "path": "[[workspace]]/_posts"
-        },
-        {
-            "path": "[[workspace]]/_authors"
-        }
-    ],
-    "frontMatter.git.enabled": true
 }
